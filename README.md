@@ -1,5 +1,5 @@
 ### AI Automation & Integration Engineer | Systems Architect
-**Based in Riga, Latvia** 🇱🇻
+**Based in Riga, Latvia** 
 
 I specialize in building high-performance autonomous systems that bridge the gap between advanced AI and real-world business processes. Currently focused on architecting production-ready integrations for CRM ecosystems.
 
