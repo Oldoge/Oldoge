@@ -14,7 +14,7 @@ I specialize in building high-performance autonomous systems that bridge the gap
 
 ### Tech Stack & Tools:
 * **Backend:** Python (FastAPI, Asyncio, SQLAlchemy)
-* **AI/LLM:** OpenAI API (GPT-4o/o1/5-mini), Prompt Engineering, RAG
+* **AI/LLM:** OpenAI API (GPT-5.2/5-mini), Prompt Engineering, RAG
 * **Databases:** PostgreSQL, Redis
 * **DevOps:** Docker & Docker Compose, Linux, Ngrok
 * **Tools:** Pipedrive API, WeasyPrint (PDF Gen), Jinja2
