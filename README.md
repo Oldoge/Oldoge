@@ -8,7 +8,7 @@ I specialize in building high-performance autonomous systems that bridge the gap
 ### What I'm working on right now:
 * **High-End CRM Automation:** Developing an intelligent ecosystem for Pipedrive that automates the entire sales lifecycle—from AI-driven lead parsing to dynamic financial document generation (Leasing/VAT).
 * **Proprietary AI Logic:** Implementation of two-stage product matching (Fuzzy Search + LLM Selection) to optimize cost and accuracy in large-scale catalogs.
-* **Architecture & Reliability:** Building modular, asynchronous FastAPI applications designed for 99.9% uptime with comprehensive monitoring (Sentry/Custom Alerts).
+* **Architecture & Reliability:** Building modular, asynchronous FastAPI applications designed for Fault-Tolerant Architecture with comprehensive monitoring (Sentry/Custom Alerts).
 
 ---
 
