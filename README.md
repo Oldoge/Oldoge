@@ -1,4 +1,4 @@
-### AI Automation & Integration Engineer | Systems Architect
+### Backend Engineer | Python (FastAPI) | Async & AI Integrations
 **Based in Riga, Latvia** 
 
 I specialize in building high-performance autonomous systems that bridge the gap between advanced AI and real-world business processes. Currently focused on architecting production-ready integrations for CRM ecosystems.
